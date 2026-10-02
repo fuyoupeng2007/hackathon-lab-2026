@@ -1,0 +1,38 @@
+{
+  "media/AccessProof-demo.mp4": {
+    "bytes": 3234334,
+    "sha256": "3afbc5424024b04fc85df5fbdcd046c894e8840bf4a327d1d6ed57a98d8c3974"
+  },
+  "media/accessproof-desktop.png": {
+    "bytes": 72210,
+    "sha256": "3ea567d9342845af99ffcac55da195cc10bab199b6d78fb6ff4960314c0045c0"
+  },
+  "media/accessproof-mobile.png": {
+    "bytes": 110554,
+    "sha256": "43fb79a0fb31bc753104642bfcf95b98b7830ae4e8d6de8e7b7d839d654d028a"
+  },
+  "media/BriefCheck-demo.mp4": {
+    "bytes": 3801584,
+    "sha256": "93f1c310a108046e2bb5404bbd43cb07fcc9853f3986fa09c116d6c65e01adff"
+  },
+  "media/briefcheck-desktop.png": {
+    "bytes": 85080,
+    "sha256": "9868e3f5636d1f42c16fde2886caf861d8dc3bab3387f42e2474ac6c0b9d4e6e"
+  },
+  "media/briefcheck-mobile.png": {
+    "bytes": 132697,
+    "sha256": "34b01338f69f70480505f2e311ca05f0d19486e7a78fa2c82a44909106757dca"
+  },
+  "evidence/accessproof-history.bundle": {
+    "bytes": 26566,
+    "sha256": "4507be0f9983ccf41b0212fe2d738c6618619a50f9a441f9561cd50c2edf6f66"
+  },
+  "evidence/briefcheck-history.bundle": {
+    "bytes": 53072,
+    "sha256": "956173fa78aaaeabea72ab2922a19ec2a087974b47e457564df63daf7dd7c80f"
+  },
+  "docs/FINAL-DELIVERY.pdf": {
+    "bytes": 326100,
+    "sha256": "f11a82f2e9c7ffc21f06d05ab6d26050a9f3f1346639cfd941c036d40376c5de"
+  }
+}

@@ -2,7 +2,7 @@
 
 本次建议作品：**AccessProof**。材料已经生成；未代表你注册或正式提交。当前状态：**主题匹配；需另填 Track Selection Form**。
 
-比赛：[概述](https://warriorhacks-2-0.devpost.com/) · [规则](https://warriorhacks-2-0.devpost.com/rules)  
+比赛：[概述](https://warriorhacks-2-0.devpost.com/) · [规则](https://warriorhacks-2-0.devpost.com/rules)
 北京时间截止：2026-10-14 12:45。资料核查日期：2026-10-02。资格：全球高中生和本科生；允许个人，推荐最多 4 人。
 
 选择理由：已公布主题为解决社区等现实问题；社区活动报名页面的无障碍预检具有明确使用场景。

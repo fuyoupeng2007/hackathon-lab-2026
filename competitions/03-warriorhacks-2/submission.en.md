@@ -40,9 +40,9 @@ These five contest packages share two completed applications. Any previous publi
 
 ## Links and testing instructions
 
-Live application: https://fuyoupeng2007.github.io/hackathon-lab-2026/projects/accessproof/  
-Source and instructions: https://github.com/fuyoupeng2007/hackathon-lab-2026/tree/main/projects/accessproof  
-Full original history: https://github.com/fuyoupeng2007/accessproof  
+Live application: https://fuyoupeng2007.github.io/hackathon-lab-2026/projects/accessproof/
+Source and instructions: https://github.com/fuyoupeng2007/hackathon-lab-2026/tree/main/projects/accessproof
+Full original history: https://github.com/fuyoupeng2007/accessproof
 Downloadable English-captioned demo: https://fuyoupeng2007.github.io/hackathon-lab-2026/media/AccessProof-demo.mp4
 
 No login or credentials are required. Open the demo, then:

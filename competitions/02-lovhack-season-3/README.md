@@ -2,7 +2,7 @@
 
 本次建议作品：**BriefCheck**。材料已经生成；未代表你注册或正式提交。当前状态：**近期优先；资格待本人确认**。
 
-比赛：[概述](https://lovhack-season-3.devpost.com/) · [规则](https://lovhack-season-3.devpost.com/rules)  
+比赛：[概述](https://lovhack-season-3.devpost.com/) · [规则](https://lovhack-season-3.devpost.com/rules)
 北京时间截止：2026-10-05 11:45。资料核查日期：2026-10-02。资格：13 至 24 岁的学生；个人或最多 4 人。
 
 选择理由：开放主题，明确允许 AI 辅助；产品主要在 9 月 26 日至 10 月 4 日窗口内构建。

@@ -9,7 +9,7 @@ SITE=f'https://{OWNER}.github.io/hackathon-lab-2026/'
 def write(path,text):
     target=ROOT/path
     target.parent.mkdir(parents=True,exist_ok=True)
-    target.write_text(text.strip()+'\n',encoding='utf-8')
+    target.write_text('\n'.join(line.rstrip() for line in text.strip().splitlines())+'\n',encoding='utf-8')
 
 events=[
  {'id':'01-build-with-ai-basics','name':'Build With AI: Basics','url':'https://learn-ai-basics.devpost.com/','app':'briefcheck','deadline':'2026-10-27 05:00','eligibility':'达到居住地法定成年年龄；地区及关联方限制见规则','status':'优先；需本人确认资格和个人参与要求','reason':'允许 AI 编程，目标是有规划文档的完整 POC；现有证据链与三代迭代契合。','checks':['确认年龄、居住地和关联方资格','本人阅读并认领产品决策，填写真实学习反思或调查；保留 PROCESS.md 的流程偏离披露','将 BriefCheck-demo.mp4 上传公开 YouTube 或 Vimeo，填写真实视频 URL','提供公开代码、MIT License、devpost/scope.md、prd.md、spec.md；使用英文提交材料'],'theme':'An intentional proof of concept: make an informal freelance brief traceable, editable and portable.','focus':'The core loop is complete without API credentials: brief, source evidence, editable acceptance, clarification, revision and export. The repository includes curriculum-shaped planning documents and a transparent process disclosure.'},

@@ -40,9 +40,9 @@ These five contest packages share two completed applications. Any previous publi
 
 ## Links and testing instructions
 
-Live application: https://fuyoupeng2007.github.io/hackathon-lab-2026/projects/briefcheck/  
-Source and instructions: https://github.com/fuyoupeng2007/hackathon-lab-2026/tree/main/projects/briefcheck  
-Full original history: https://github.com/fuyoupeng2007/briefcheck  
+Live application: https://fuyoupeng2007.github.io/hackathon-lab-2026/projects/briefcheck/
+Source and instructions: https://github.com/fuyoupeng2007/hackathon-lab-2026/tree/main/projects/briefcheck
+Full original history: https://github.com/fuyoupeng2007/briefcheck
 Downloadable English-captioned demo: https://fuyoupeng2007.github.io/hackathon-lab-2026/media/BriefCheck-demo.mp4
 
 No login or credentials are required. Open the demo, then:

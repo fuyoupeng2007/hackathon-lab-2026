@@ -2,7 +2,7 @@
 
 本次建议作品：**BriefCheck**。材料已经生成；未代表你注册或正式提交。当前状态：**优先；需本人确认资格和个人参与要求**。
 
-比赛：[概述](https://learn-ai-basics.devpost.com/) · [规则](https://learn-ai-basics.devpost.com/rules)  
+比赛：[概述](https://learn-ai-basics.devpost.com/) · [规则](https://learn-ai-basics.devpost.com/rules)
 北京时间截止：2026-10-27 05:00。资料核查日期：2026-10-02。资格：达到居住地法定成年年龄；地区及关联方限制见规则。
 
 选择理由：允许 AI 编程，目标是有规划文档的完整 POC；现有证据链与三代迭代契合。

@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-02",
+  "engine": "axe-core 4.13.0",
+  "scope": "10 synthetic fixtures, 7 overlapping rules; no overall accuracy/coverage claim",
+  "passed": 10,
+  "total": 10,
+  "rows": [
+    {
+      "name": "Missing image alt",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><img src=\"example.invalid/photo.png\"></main></body></html>",
+      "ownRule": "image-alt",
+      "axeRule": "image-alt",
+      "accessproofBarrier": true,
+      "accessproofReview": false,
+      "axeBarrier": true,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "Decorative empty alt",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><img src=\"example.invalid/photo.png\" alt=\"\"></main></body></html>",
+      "ownRule": "image-alt",
+      "axeRule": "image-alt",
+      "accessproofBarrier": false,
+      "accessproofReview": false,
+      "axeBarrier": false,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "Placeholder-only input",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><input placeholder=\"Email\"></main></body></html>",
+      "ownRule": "control-label",
+      "axeRule": "label",
+      "accessproofBarrier": false,
+      "accessproofReview": true,
+      "axeBarrier": false,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "Empty label/input",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><label for=\"x\"></label><input id=\"x\"></main></body></html>",
+      "ownRule": "control-label",
+      "axeRule": "label",
+      "accessproofBarrier": true,
+      "accessproofReview": false,
+      "axeBarrier": true,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "aria-labelledby text",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><span id=\"x\">Email</span><input aria-labelledby=\"x\"></main></body></html>",
+      "ownRule": "control-label",
+      "axeRule": "label",
+      "accessproofBarrier": false,
+      "accessproofReview": false,
+      "axeBarrier": false,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "Hidden ancestor controls",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><div hidden><input></div></main></body></html>",
+      "ownRule": "control-label",
+      "axeRule": "label",
+      "accessproofBarrier": false,
+      "accessproofReview": false,
+      "axeBarrier": false,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "Empty button",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><button></button></main></body></html>",
+      "ownRule": "button-name",
+      "axeRule": "button-name",
+      "accessproofBarrier": true,
+      "accessproofReview": false,
+      "axeBarrier": true,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "Image-named button",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><button><img alt=\"Search\"></button></main></body></html>",
+      "ownRule": "button-name",
+      "axeRule": "button-name",
+      "accessproofBarrier": false,
+      "accessproofReview": false,
+      "axeBarrier": false,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "Empty link",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><a href=\"/\"></a></main></body></html>",
+      "ownRule": "link-name",
+      "axeRule": "link-name",
+      "accessproofBarrier": true,
+      "accessproofReview": false,
+      "axeBarrier": true,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    },
+    {
+      "name": "Untitled iframe",
+      "source": "<!doctype html><html lang=\"en\"><head><title>Fixture</title></head><body><main><iframe src=\"about:blank\"></iframe></main></body></html>",
+      "ownRule": "frame-title",
+      "axeRule": "frame-title",
+      "accessproofBarrier": true,
+      "accessproofReview": false,
+      "axeBarrier": true,
+      "axeIncomplete": false,
+      "axeVersion": "4.13.0",
+      "agree": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-02",
+  "base_url": "https://fuyoupeng2007.github.io/hackathon-lab-2026/",
+  "root_status": 200,
+  "portfolio_accessproof_filter_count": 2,
+  "briefcheck_generated_sample": "Studio portfolio website",
+  "accessproof_broken_sample": {"barriers": 4, "review_prompts": 2},
+  "resources": [
+    {"path": "docs/FINAL-DELIVERY.pdf", "status": 200, "type": "application/pdf", "bytes": 326100},
+    {"path": "media/BriefCheck-demo.mp4", "status": 200, "type": "video/mp4", "bytes": 3801584},
+    {"path": "media/AccessProof-demo.mp4", "status": 200, "type": "video/mp4", "bytes": 3234334},
+    {"path": "competitions/competitions.json", "status": 200, "type": "application/json", "bytes": 6277}
+  ],
+  "page_errors": [],
+  "note": "This receipt verifies public software delivery, not Devpost registration or submission."
+}

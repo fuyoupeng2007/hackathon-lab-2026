@@ -2,7 +2,7 @@
 
 本次建议作品：**BriefCheck**。材料已经生成；未代表你注册或正式提交。当前状态：**适合作品方向；时间与资格口径需复核**。
 
-比赛：[概述](https://hack47-offgrid.devpost.com/) · [规则](https://hack47-offgrid.devpost.com/rules)  
+比赛：[概述](https://hack47-offgrid.devpost.com/) · [规则](https://hack47-offgrid.devpost.com/rules)
 北京时间截止：2026-10-15 12:00。资料核查日期：2026-10-02。资格：页面标签为成年学生；正文欢迎各类全球创作者；存在口径差异。
 
 选择理由：无需指定平台或技术栈，允许 AI 编程，强调有明确用户和可继续发展的功能原型。

@@ -2,7 +2,7 @@
 
 本次建议作品：**AccessProof**。材料已经生成；未代表你注册或正式提交。当前状态：**条件候选；截止日期与 AI 项目口径待复核**。
 
-比赛：[概述](https://ml-build-challenge-3.devpost.com/) · [规则](https://ml-build-challenge-3.devpost.com/rules)  
+比赛：[概述](https://ml-build-challenge-3.devpost.com/) · [规则](https://ml-build-challenge-3.devpost.com/rules)
 北京时间截止：保守按 2026-10-06 12:00；页面另写 10-10 14:45。资料核查日期：2026-10-02。资格：13 岁以上；高中和大学学生，允许 1 至 5 人。
 
 选择理由：规则包含技术执行与社会影响，通用 Web 项目符合概述要求；AI 方向有解释风险。
