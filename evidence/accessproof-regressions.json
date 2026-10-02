@@ -1,0 +1,82 @@
+{
+  "passed": 19,
+  "total": 19,
+  "results": [
+    {
+      "name": "missing alt found",
+      "pass": true
+    },
+    {
+      "name": "decorative image not flagged",
+      "pass": true
+    },
+    {
+      "name": "explicit label accepted",
+      "pass": true
+    },
+    {
+      "name": "placeholder-only field prompts review rather than certain barrier",
+      "pass": true
+    },
+    {
+      "name": "hidden ancestor excluded",
+      "pass": true
+    },
+    {
+      "name": "aria-labelledby resolves meaningful text",
+      "pass": true
+    },
+    {
+      "name": "empty explicit label not accepted",
+      "pass": true
+    },
+    {
+      "name": "image-only button gets image name",
+      "pass": true
+    },
+    {
+      "name": "duplicate id reported",
+      "pass": true
+    },
+    {
+      "name": "untitled iframe prompts a name",
+      "pass": true
+    },
+    {
+      "name": "heading skip is review not certificate failure",
+      "pass": true
+    },
+    {
+      "name": "hidden source script stays inert",
+      "pass": true
+    },
+    {
+      "name": "review identity survives an unrelated new issue",
+      "pass": true
+    },
+    {
+      "name": "changed element evidence resets review",
+      "pass": true
+    },
+    {
+      "name": "JSON import recomputes findings instead of trusting supplied rules",
+      "pass": true
+    },
+    {
+      "name": "comparison records disappeared source findings",
+      "pass": true
+    },
+    {
+      "name": "exports retain human decisions and full source",
+      "pass": true
+    },
+    {
+      "name": "unquoted language valid and commented fake language ignored",
+      "pass": true
+    },
+    {
+      "name": "data-lang does not stand in for the real language attribute",
+      "pass": true
+    }
+  ]
+}

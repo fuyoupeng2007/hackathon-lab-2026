@@ -1,0 +1,11 @@
+qa/
+.work/
+delivery/
+media/*raw*
+media/*-sheet.png
+media/*.ass
+.env
+.env.*
+!.env.example
+**/learner-profile.md
+*.log

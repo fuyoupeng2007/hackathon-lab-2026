@@ -1,0 +1,92 @@
+[
+  {
+    "id": "01-build-with-ai-basics",
+    "name": "Build With AI: Basics",
+    "url": "https://learn-ai-basics.devpost.com/",
+    "app": "briefcheck",
+    "deadline": "2026-10-27 05:00",
+    "eligibility": "达到居住地法定成年年龄；地区及关联方限制见规则",
+    "status": "优先；需本人确认资格和个人参与要求",
+    "reason": "允许 AI 编程，目标是有规划文档的完整 POC；现有证据链与三代迭代契合。",
+    "checks": [
+      "确认年龄、居住地和关联方资格",
+      "本人阅读并认领产品决策，填写真实学习反思或调查；保留 PROCESS.md 的流程偏离披露",
+      "将 BriefCheck-demo.mp4 上传公开 YouTube 或 Vimeo，填写真实视频 URL",
+      "提供公开代码、MIT License、devpost/scope.md、prd.md、spec.md；使用英文提交材料"
+    ],
+    "theme": "An intentional proof of concept: make an informal freelance brief traceable, editable and portable.",
+    "focus": "The core loop is complete without API credentials: brief, source evidence, editable acceptance, clarification, revision and export. The repository includes curriculum-shaped planning documents and a transparent process disclosure."
+  },
+  {
+    "id": "02-lovhack-season-3",
+    "name": "LovHack Season 3",
+    "url": "https://lovhack-season-3.devpost.com/",
+    "app": "briefcheck",
+    "deadline": "2026-10-05 11:45",
+    "eligibility": "13 至 24 岁的学生；个人或最多 4 人",
+    "status": "近期优先；资格待本人确认",
+    "reason": "开放主题，明确允许 AI 辅助；产品主要在 9 月 26 日至 10 月 4 日窗口内构建。",
+    "checks": [
+      "确认学生身份、年龄及地区资格",
+      "确认主要构建时间符合 9 月 26 日至 10 月 4 日；披露已有代码及其他比赛投稿",
+      "不要把此前已经完成并投稿的成品原样重复提交",
+      "核对 Devpost 表单中的最终必填项；准备代码、在线演示、截图、英文描述和 AI 使用披露"
+    ],
+    "theme": "Help student freelancers agree on what “done” means before they commit to a project.",
+    "focus": "The product serves a narrow audience: students taking their first small client job. Optional work stays optional, competing source facts remain unresolved, and acceptance is edited before the user confirms it."
+  },
+  {
+    "id": "03-warriorhacks-2",
+    "name": "WarriorHacks 2.0",
+    "url": "https://warriorhacks-2-0.devpost.com/",
+    "app": "accessproof",
+    "deadline": "2026-10-14 12:45",
+    "eligibility": "全球高中生和本科生；允许个人，推荐最多 4 人",
+    "status": "主题匹配；需另填 Track Selection Form",
+    "reason": "已公布主题为解决社区等现实问题；社区活动报名页面的无障碍预检具有明确使用场景。",
+    "checks": [
+      "确认在读高中或本科资格",
+      "阅读规则所链接的 Code of Conduct；其中未在本次报告中完整验证的附加条款需本人确认",
+      "提交必需 Track Selection Form，选择 Hackathon，填本人真实姓名与邮箱",
+      "按表单要求上传作品；说明 AI 辅助和构建时间；不声称真实社区用户验证已完成"
+    ],
+    "theme": "Reduce preventable accessibility gaps in community workshop registration pages.",
+    "focus": "A community event can exclude people through unnamed controls or missing image descriptions. AccessProof gives volunteer maintainers element evidence and repair patterns, while directing them to rendered-page and human checks."
+  },
+  {
+    "id": "04-hack47-offgrid",
+    "name": "HACK47: OFFGRID",
+    "url": "https://hack47-offgrid.devpost.com/",
+    "app": "briefcheck",
+    "deadline": "2026-10-15 12:00",
+    "eligibility": "页面标签为成年学生；正文欢迎各类全球创作者；存在口径差异",
+    "status": "适合作品方向；时间与资格口径需复核",
+    "reason": "无需指定平台或技术栈，允许 AI 编程，强调有明确用户和可继续发展的功能原型。",
+    "checks": [
+      "复核成年/学生页面标签与更宽泛规则正文；本报告不替组织者裁定",
+      "页面写 9 月 15 日至 10 月 15 日，规则正文说正式时间另行公布，提交前核对更新",
+      "如实写明 10 月 1 日起的新代码、10 月 2 日两轮扩展和比赛材料；不倒填创建目的",
+      "核对 created for OFFGRID 与跨比赛复用要求：若同一版本已在他处完成投稿，先披露并确认需补的新工作"
+    ],
+    "theme": "Keep the agreement useful after the meeting ends, without forcing a client into another account.",
+    "focus": "BriefCheck offers local project storage, a revision comparison and a single-file client preview. These choices focus on continuation and handover instead of an isolated one-shot generator."
+  },
+  {
+    "id": "05-ml-empowerment-3",
+    "name": "ML Empowerment Build Challenge 3.0",
+    "url": "https://ml-build-challenge-3.devpost.com/",
+    "app": "accessproof",
+    "deadline": "保守按 2026-10-06 12:00；页面另写 10-10 14:45",
+    "eligibility": "13 岁以上；高中和大学学生，允许 1 至 5 人",
+    "status": "条件候选；截止日期与 AI 项目口径待复核",
+    "reason": "规则包含技术执行与社会影响，通用 Web 项目符合概述要求；AI 方向有解释风险。",
+    "checks": [
+      "规则正文写 10 月 5 日 21:00 PDT，页头写 10 月 9 日 23:45 PDT；在较早时间前行动并核对更新",
+      "概述要求 using AI，详细要求允许通用 Web/生产力作品；确认 AI-assisted development 是否符合，而非假称运行了模型",
+      "如要求实际运行时 AI，此成品不满足该附加要求，改用文档中的其他候选",
+      "提交至少一项展示功能或设计的文件，并如实填写学生资格与成员角色"
+    ],
+    "theme": "An AI-assisted development project that helps volunteers review accessibility with explicit evidence.",
+    "focus": "The application runs deterministic source rules, not a machine-learning model. AI was used in development and evaluation. This distinction must remain visible in the entry; suitability is conditional on the organizer’s interpretation."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-02",
+  "browser": "Chromium via Playwright",
+  "environment": "local monorepo server 127.0.0.1:4399",
+  "accessproof_regressions": {"passed": 19, "total": 19},
+  "portfolio_filters": {"all": 5, "briefcheck": 3, "accessproof": 2},
+  "mobile_width": {
+    "briefcheck": {"viewport": 390, "document": 390},
+    "accessproof": {"viewport": 390, "document": 390},
+    "portfolio": {"viewport": 390, "document": 390}
+  },
+  "page_errors": [],
+  "notes": "Screenshots inspected. This does not constitute a screen-reader or broad browser usability study."
+}

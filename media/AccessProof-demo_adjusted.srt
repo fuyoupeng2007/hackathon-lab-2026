@@ -1,0 +1,70 @@
+1
+00:00:00,000 --> 00:00:04,183
+AccessProof: check common
+HTML accessibility gaps offline.
+
+2
+00:00:04,183 --> 00:00:08,000
+A source preflight,
+with human review still required.
+
+3
+00:00:08,000 --> 00:00:12,765
+The sample shows four potential
+barriers and two review prompts.
+
+4
+00:00:12,765 --> 00:00:17,000
+These counts describe source
+checks, not WCAG compliance.
+
+5
+00:00:17,000 --> 00:00:26,531
+Each finding includes element
+evidence and a repair pattern.
+
+6
+00:00:26,531 --> 00:00:38,000
+A placeholder-only field is a review
+prompt, not an unnamed-field error.
+
+7
+00:00:38,000 --> 00:00:43,600
+Write the review decision
+and mark the evidence reviewed.
+
+8
+00:00:43,600 --> 00:00:49,000
+The app keeps your local notes
+with unchanged evidence.
+
+9
+00:00:49,000 --> 00:00:54,225
+Add an unnamed iframe
+and rescan: one new finding appears.
+
+10
+00:00:54,225 --> 00:01:00,000
+Before-and-after comparison
+separates new and retained evidence.
+
+11
+00:01:00,000 --> 00:01:13,274
+Source checks do not cover
+computed contrast or live interaction.
+
+12
+00:01:13,274 --> 00:01:28,000
+Use a rendered-page engine and test
+keyboard and screen-reader behavior.
+
+13
+00:01:28,000 --> 00:01:35,162
+English and Chinese views share
+the same local review.
+
+14
+00:01:35,162 --> 00:01:43,000
+Markdown and JSON exports
+preserve source and review notes.
+

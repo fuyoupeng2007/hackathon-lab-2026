@@ -1,0 +1,30 @@
+
+> briefcheck@3.0.0 test
+> node --test tests/*.test.cjs
+
+✔ missing terms become questions, never invented facts (1.6657ms)
+✔ concrete details remain traceable to source (1.1317ms)
+✔ unknown and negated terms are not treated as agreement (0.299ms)
+✔ multiple deliverables and English input work (0.5855ms)
+✔ a brand reference alone is not a separate design deliverable (0.1527ms)
+✔ blank input is rejected and huge input is bounded (0.2862ms)
+✔ payment on acceptance does not supply acceptance criteria (0.1615ms)
+✔ negating login preserves explicitly requested payment, and vice versa (0.2073ms)
+✔ export preserves edits, confirmation and full original brief (0.327ms)
+✔ regeneration keeps written criteria and answers but resets confirmation for changed briefs (1.8775ms)
+✔ same-source regeneration retains removed and manually added scope (1.3661ms)
+✔ JSON roundtrip retains edits, answers and confirmation while rechecking original facts (0.5584ms)
+✔ invalid imports rejected and untrusted HTML content escaped with no scripts (0.4204ms)
+✔ conflicting field keeps both original sources and a question (2.0116ms)
+✔ custom scope, adopted optional items and removals survive restoration (0.8963ms)
+✔ restoration reanalyzes facts and rejects unrecognized scope identifiers (0.6757ms)
+✔ optional video in the same clause does not make the website optional (0.2533ms)
+✔ English date keeps its year and ordinary client copy is recognized (0.3242ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 72.6501
